@@ -5,5 +5,9 @@
   "repository": "git@github.com:micahstubbs/uxe-research.git",
   "author": "Micah Stubbs <micah.stubbs@gmail.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "d3-dsv": "^1.0.10",
+    "open": "^0.0.5"
+  }
 }
